@@ -1,4 +1,4 @@
-app-percetakan
+App-Invoice
 ==============
 
-Aplikasi Sederhana Untuk Manajemen Pembayaran Pada Usaha Percetakan
+Aplikasi Sederhana Untuk Manajemen Pembayaran Pada ACS
